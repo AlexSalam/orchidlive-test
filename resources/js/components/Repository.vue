@@ -70,4 +70,11 @@
         font-weight: bold;
         font-size: 16px;
     }
+
+    .repo-title:hover {
+        opacity: 0.7;
+        cursor: pointer;
+        text-decoration: underline;
+        color: cadetblue;
+    }
 </style>

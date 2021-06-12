@@ -6410,7 +6410,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.main-body[data-v-7f3dd2f5] {\n    margin-top: 40px;\n}\n.main-title[data-v-7f3dd2f5] {\n    text-align: center;\n}\n.repository-list[data-v-7f3dd2f5] {\n    list-style-type: none;\n}\n.error[data-v-7f3dd2f5] {\n    color: red;\n    font-weight: bold;\n    font-size: 16px;\n}\n", ""]);
+exports.push([module.i, "\n.main-body[data-v-7f3dd2f5] {\n    margin-top: 40px;\n}\n.main-title[data-v-7f3dd2f5] {\n    text-align: center;\n}\n.repository-list[data-v-7f3dd2f5] {\n    list-style-type: none;\n}\n.error[data-v-7f3dd2f5] {\n    color: red;\n    font-weight: bold;\n    font-size: 16px;\n}\n.repo-title[data-v-7f3dd2f5]:hover {\n    opacity: 0.7;\n    cursor: pointer;\n    text-decoration: underline;\n    color: cadetblue;\n}\n", ""]);
 
 // exports
 
